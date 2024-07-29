@@ -1,6 +1,6 @@
 import { StyleSheet, SafeAreaView, ScrollView } from "react-native";
 import { GestureHandlerRootView } from "react-native-gesture-handler";
-import FlatCards from "../../../my-app/components/FlatCards";
+import FlatCards from "@/components/FlatCards";
 import ElevatedCards from "@/components/ElevatedCards";
 import FancyCard from "@/components/FancyCard";
 import React from "react";
